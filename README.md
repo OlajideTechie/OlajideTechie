@@ -97,12 +97,8 @@ tests across payment validation and edge cases.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=OlajideTechie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlajideTechie&layout=compact&theme=github_dark&hide_border=true" 
-    width="40%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlajideTechie&theme=github_dark" 
+    width="90%"
   />
 </p>
 
